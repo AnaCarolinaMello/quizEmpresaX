@@ -1,1 +1,1 @@
-Capturar incongruencias de banco de dados em php
+Capturar incongruencias de um banco de dados em php
