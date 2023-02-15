@@ -1,0 +1,48 @@
+
+body{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+#container{
+    margin-top: 2px;
+    margin-left: 20px;
+}
+
+#cabecalho{
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    margin-bottom: 20px;
+}
+
+.separacao{
+    margin-left: 205px;
+}
+
+#separar{
+    margin-left: 350px;
+}
+
+#espaco{
+    display: flex;
+    flex-direction: row;
+}
+
+#separador{
+    margin-left: 60px;
+}
+
+.conteudo{
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+}
+
+.delimitador{
+    width: 17px;
+}
+
+.space{
+    margin-left: 24px;
+}
